@@ -14,6 +14,4 @@
 
 Z-score Method: Outliers will be identified by calculating the z-score of each data point and comparing it to a threshold.
 
-Dataset used for outlier detection:https://drive.google.com/file/d/1UlWRYU0UglE2ex3iFse0J6eCLEU8g98P/view?usp=sharing
-
-<a href="https://drive.google.com/file/d/1UlWRYU0UglE2ex3iFse0J6eCLEU8g98P/view?usp=sharing">Dataset <a>
+Dataset used for outlier detection:<a href="https://drive.google.com/file/d/1UlWRYU0UglE2ex3iFse0J6eCLEU8g98P/view?usp=sharing">Dataset <a>
