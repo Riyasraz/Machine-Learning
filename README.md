@@ -18,7 +18,7 @@ Dataset used for outlier detection: <a href="https://drive.google.com/file/d/1Ul
 
 ## Hypothesis Testing
 
-Q1: Child Psychologist's Claim
+##Q1: Child Psychologist's Claim
 A child psychologist claims that the average time working mothers spend talking to their children is at least 11 minutes per day. We conduct a random sample of 1000 working mothers and find they spend an average of 11.5 minutes per day talking with their children.
 
 Population Standard Deviation: 2.3 minutes
@@ -27,7 +27,7 @@ Sample Mean: 11.5 minutes
 Significance Level: α = 0.05
 We perform a hypothesis test to determine if there is enough evidence to support the psychologist's claim.
 
-Q2: Coffee Shop's Claim
+##Q2: Coffee Shop's Claim
 A coffee shop claims that their average wait time for customers is less than 5 minutes. To test this claim, a sample of 40 customers is taken, and their wait times are recorded.
 
 Sample Size: 40
