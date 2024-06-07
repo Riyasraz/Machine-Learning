@@ -13,3 +13,5 @@
 5.Normal Distribution: Outliers will be detected based on their deviation from the normal distribution assumption.
 
 Z-score Method: Outliers will be identified by calculating the z-score of each data point and comparing it to a threshold.
+
+Dataset used for outlier detection:https://drive.google.com/file/d/1UlWRYU0UglE2ex3iFse0J6eCLEU8g98P/view?usp=sharing
